@@ -1,0 +1,2 @@
+# mailgenerator
+Generating Random Emails
